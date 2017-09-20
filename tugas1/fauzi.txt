@@ -1,0 +1,274 @@
+Cara masuk dan menyelesaikan stage game lightbot hour
+
+1.Nyalakan smart phone
+2.Masuk ke tampilan menu
+3.pilih game/aplikasi lightbot hour
+4.pilih tombol >
+5.pilih basic
+6.pilih stag 1
+
+1.Basic
+
+Untuk menyelesaikan stage1
+
+1.pilih maju 2 kali
+2.pilih lampu untuk menyalakan
+3.klik tanda > di atas untuk muenjalankan robot
+4.selesai lalu stage berikunya
+
+untuk menyelesaikan stage2
+
+1.pilih maju 2 kali
+2.lalu pilih belok ke kiri
+3.pilih maju lagi 2 kali
+4.setelah itu belok ke kiri lagi
+5.pilih maju 2 kali
+6.dan menyalakan lampu
+7.klik tanda > di atas untuk menjalankan robot
+8.selesai lanjut stage berikutnya yaitu stage3
+
+untuk menyelesaikan stage3
+
+1.pilih lompat
+2.pilih belok ke kanan
+3.pilih lompat lagi
+4.lalu pilih belok kanan lagi
+5.pilih lompat
+6.dan pilih lampu
+7.klik tanda > diatas untuk menjalankan robot
+8.selesai lanjut stage berikutnya yaitu stage4
+
+untuk menyelesaikan stage4
+
+1.pilih maju 2 kali
+2.pilih untuk belok ke kiri
+3.pilih lompat 4 kali
+4.pilih lampu
+5.klik tanda > diatas untuk menjalankan robot
+6.selesai lanjut stage berikutnya yaitu stage5
+
+untuk menyelesaikan stage5
+1.pilih lampu
+2.pilih lompat
+3.pilih maju 1 kali
+4.pilih untuk belok ke kiri
+5.pilih maju 1 kali lagi
+6.pilih lampu lalu lompat 1 kali
+7.pilih untuk belok ke kiri
+8.pilih maju 2 kali
+9.pilih lampu 
+10.klik tanda > diatas untuk menjalankan robot
+11.selesai lanjut stage berikutnya yaitu stage 6
+
+untuk menyelesaikan stage 6
+1.pilih lompat
+2.pilih belok ke kiri
+3.pilih maju 1 kali
+4.pilih lompat
+5.pilih lampu
+6.pilih belok ke kiri
+7.pilih maju 2 kali
+8.pilih belok ke kanan
+9.pilih lompat
+10.pilih maju 1 kali dan pilih lampu
+11.klik tanda > untuk menjalankan robot
+12.selesai lanjut stage berikutnya
+
+stage7
+1.pilih maju
+2.pilih belok kiri 
+3.pilih lompat dan lampu 
+4.pilih lompat dan lampu lagi
+5.pilih belok ke kiri
+6.pilih lompat dan lampu
+7.pilih belok kiri ,lompat,dan lampu
+8.klik tanda > 
+9.selesai lanjut stage 8
+
+stage8
+1.pilih lompat 2 kali
+2.belok kanan dan maju 1 kali
+3.pilih lompat dan lampu
+4.pilih belok kiri,maju 1 kali dan lampu
+5.pilih lompat dan lampu
+6.klik tanda >
+7.semua stage basic selesai
+
+2.Procedures
+
+stage1
+1.pilih P1 3 kali
+	Isi P1:
+	1.pilih tombol untuk maju sebanyak 3 kali
+	2.pilih lampu
+	3.pilih untuk belok ke kanan
+	4.klik tanda > untuk menjalankan robot
+	5.selesai
+stage2
+1.pilih P1
+2.pilih belok kanan
+3.pilik P1
+4.pilih belok kanan
+5.pilih P1
+6.pilih belok kanan
+7.pilih P1
+8.pilih lampu untuk menyalakan
+	Isi P1:
+	1.pilih maju 1 kali
+	2.pilih belok kiri
+	3.pilih maju 1 kali
+	4.klik tanda > untuk menjalankan robot
+	5.selesai
+stage3
+1.pilih P1
+2.pilih belok ke kiri
+3.pilih lompat
+4.pilih belok kiri
+5.pilih P1 lagi
+6.pilih belok ke kanan
+7.pilih lompat
+8.pilih belok ke kanan
+9.pilih P1
+	Isi P1:
+	1.pilih maju 3 kali
+	2.pilih lampu
+	3.klik tanda > untuk menjalankan robot
+	4.selesai
+stage4
+1.pilih P1
+2.pilih belok kiri
+3.pilih lompat
+4.pilih belok kiri
+5.pilih P1
+6.pilih belok kanan
+7.pilih lompat
+8.pilih belok kanan
+9.pilih P1
+	Isi P1:
+	1.pilih maju 1 kali
+	2.pilih lampu
+	3.klik > untuk menjalankan robot
+	4.selesai
+stage5
+1.pilih P1 3 kali
+	Isi P1:
+	1.pilih P2
+	2.pilih belok kiri
+	3.pilih lompat
+	4.pilih belok kiri
+	5.pilih P2
+	6.pilih belok kanan
+	7.pilih lompat
+	8.pilih belok kanan
+		Isi P2:
+		1.pilih lampu
+		2.pilih maju 1 kali
+		3.pilih lampu
+		4.pilih maju 1 kali
+		5.pilih lampu
+		6.pilih lompat
+		7.pilih maju 2 kali
+		8.klik tanda > di atas untuk menjalankan robot
+		9.selesai
+stage6
+1.pilih P1
+2.pilih belok kiri
+3.pilih P1 
+4.pilih belok kiri
+5.pilih P1
+6.pilih belok kiri
+7.pilih P1
+8.pilih belok kiri
+	Isi P1:
+	1.pilih P2 4 kali
+	2.plih maju 1 kali
+	3.pilih lompat 2 kali
+	4.pilih maju
+		Isi P2:
+		1.pilih lampu
+		2.pilih maju
+		3.pilih belok kiri
+		4.klik tanda > di atas untuk menjalankan robot
+		5.selesai
+
+3.Loops
+stage1
+1.pilih P1
+	Isi P1:
+	1.maju 1 kali
+	2.pilih lampu
+	3.pilih P1
+	4.klik tanda > untuk menjalankan robot
+	5.selesai
+stage2
+1.pilih P1
+	Isi P1:
+	1.maju 1 kali
+	2.pilih lampu
+	3.pilih P1
+	4.klik tanda > untuk menjalankan robot
+	5.selesai
+stage 3
+1.pilih P1
+	Isi P1:
+	1.pilih maju 1 kali
+	2.pilih lampu
+	3.pilih belok ke kiri
+	4.pilih maju 1 kali
+	5.pilih lompat
+	6.pilih lampu
+	7.pilih lompat
+	8.pilih P1
+	9.klik tombol > untuk menjalankan robot
+	10.selesai
+stage4
+1.pilih P1
+	Isi P1:
+	1.pilih lampu
+	2.pilih maju 1 kali
+	3.pilih belok ke kiri
+	4.pilih maju 1 kali
+	5.pilih lampu
+	6.pilih belok kanan
+	7.pilih maju 1 kali
+	8.pilih P1
+	9.klik tanda > di atas untuk menjalankan robot
+	10.selesai
+stage5
+1.pilih P1
+	Isi P1:
+	1.pilih lampu
+	2.pilih lompat
+	3.pilih lampu
+	4.pilih maju 1 kali
+	5.pilih lampu
+	6.pilih maju 1 kali
+	7.pilih lampu 
+	8.pilih P2
+		Isi P2:
+		1.pilih lompat
+		2.pilih belok kiri
+		3.pilih P1
+		4.klik tanda > untuk menjalankan robot
+		5.selesai
+stage 6
+1.pilih P1
+	Isi P1:
+	1.pilih lampu
+	2.pilih lompat
+	3.pilih belok kiri
+	4.pilih maju 1 kali
+	5.pilih lampu
+	6.pilih belok kanan
+	7.pilih lompat
+	8.pilih P2
+		Isi P2:
+		1.pilih belok kanan
+		2.pilih maju 1 kali
+		3.pilih belok kiri
+		4.pilih lompat
+		5.pilih lompat
+		6.pilih belok kiri
+		7.pilih P1
+		8.klik tanda > untuk menjalankan robot
+		9.selesai
